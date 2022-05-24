@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://fascinating-bubblegum-0a1074.netlify.app"
 languageCode: en-us
 title: Demo for Hugo FYM
 theme: PaperMod
