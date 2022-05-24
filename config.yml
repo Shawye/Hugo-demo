@@ -32,7 +32,11 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
+    - identifier: tags2
+      name: Tags2
+      url: /tags2/
+      weight: 30
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 30
+      weight: 40
