@@ -25,7 +25,7 @@ params:
 menu:
   main:
     - identifier: categories
-      name: Home2
+      name: Home3
       url: /categories/
       weight: 10
     - identifier: tags
