@@ -25,11 +25,11 @@ params:
 menu:
   main:
     - identifier: categories
-      name: Home
+      name: Home2
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Research
+      name: Research2
       url: /tags/
       weight: 20
     - identifier: archives
