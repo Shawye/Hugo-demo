@@ -32,10 +32,6 @@ menu:
       name: Research
       url: /tags/
       weight: 20
-    - identifier: tags
-      name: People
-      url: /tags2/
-      weight: 30
     - identifier: archives
       name: Archives
       url: /archives/
